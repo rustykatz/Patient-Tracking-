@@ -1,9 +1,20 @@
-# Patient-Tracking-
-allows user to 
-add, remove ,search, modify,and print information about the patient in command line
+# Patient Tracking 
 
-how to run: 
-1) right click on file > open in terminal
-2) "make clean"
-3) "make all"
-4) "./wicps"
+This program was created as an assignment for CMPT 225. The purpose was to allow users to modify and track patients via inputs in the command line. 
+
+## Features implemented:
+- Add
+- Remove
+- Search
+- Modify
+- Display information
+
+## How to run: 
+1) Navigate to folder containing project files
+2) Right click on file then select the option "Open in Terminal"
+3) Run the command "make clean"
+4) Run the command "make all"
+5) Run the command "./wicps"
+
+## Author: 
+Faraz Fazlalizadeh: www.farazf.com 
